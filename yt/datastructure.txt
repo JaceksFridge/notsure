@@ -1,0 +1,9 @@
+{
+  "speaker": "Person A",
+  "context": "A conversation between two people about the weather",
+  "topic": "Weather",
+  "intent": "To inform",
+  "emotion": "Neutral",
+  "action": "None",
+  "text": "The weather is going to be sunny today."
+}
