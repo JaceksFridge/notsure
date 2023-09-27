@@ -1,7 +1,7 @@
 
 import os
 import openai
-from secret import OPEN_KEY
+from openai.secret import OPEN_KEY
 
 
 
